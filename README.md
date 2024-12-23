@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=syednoman-69)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?syednoman-89=anuraghazra)](https://github.com/syednoman-89/github-readme-stats)
